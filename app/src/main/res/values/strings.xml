@@ -4,4 +4,10 @@
     <string name="stt">STT</string>
     <string name="name">Name</string>
     <string name="pass">Pass</string>
+    <string name="hello_guy">Hello Guy</string>
+    <string name="pass_word">Pass Word</string>
+    <string name="user_name">User name</string>
+    <string name="ok">OK</string>
+    <string name="get_account">Get Account</string>
+
 </resources>
