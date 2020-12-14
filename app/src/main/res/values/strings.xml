@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">testConnection</string>
+    <string name="show">Show</string>
+    <string name="stt">STT</string>
+    <string name="name">Name</string>
+    <string name="pass">Pass</string>
+</resources>
